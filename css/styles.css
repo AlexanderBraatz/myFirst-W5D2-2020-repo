@@ -2,3 +2,8 @@ img{
     height: 20vw;
     min-width: 20vw;
 }
+footer{
+    background-color: aqua;
+    height: 30px;
+    text-align: center;
+}
